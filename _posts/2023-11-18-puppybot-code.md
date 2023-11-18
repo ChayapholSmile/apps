@@ -11,5 +11,6 @@ hidden: false
 rating: 5.0
 ---
 ## Puppybot Code
-- Download it at [Here!](/apps/assets/PuppyBot.mby)
+- Download it at [Here!](https://github.com/ChayapholSmile/apps/raw/main/assets/PuppyBot.mby)
+- Right Click and then "Save As..."
 - Use [MicroBlock](https://microblock.app) to open
