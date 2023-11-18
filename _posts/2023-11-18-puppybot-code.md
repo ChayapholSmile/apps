@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Puppybot Code"
-author: Arplane
+author: arplane
 categories: [ Code ]
-tags: [orange]
-image: 
-description: ""
+tags: [Code]
+image: favicon.ico
+description: "Puppybot Code For MicroBlock"
 featured: true
 hidden: false
 rating: 5.0
 ---
 ## Puppybot Code
-- Download it at [Here!](/assets/userfile/PuppyBot.mby)
+- Download it at [Here!](assets/userfile/PuppyBot.mby)
 - Use [MicroBlock](https://microblock.app) to open
