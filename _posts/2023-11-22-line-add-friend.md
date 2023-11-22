@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Puppybot Code"
+title:  "LINE Add friend (@258odprx)"
 author: arplane
 categories: [ LINE ]
 tags: [LINE]
