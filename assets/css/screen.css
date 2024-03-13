@@ -685,7 +685,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: itim;
 }
 
 .article-post .h1,
@@ -711,7 +711,7 @@ h6 {
 }
 
 .layout-page .article-post {
-    font-family: itim, itim, "Itim", Itim, "Itim", Itim, Itim, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-family: itim, itim, "Itim", Itim, "Itim", Itim, Itim, "Itim", "Itim", "Itim", "Itim";
     font-size: 1rem;
 }
 
