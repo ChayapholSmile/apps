@@ -21,6 +21,14 @@ authors:
     web: https://arplane-socity.github.io
     twitter: https://twitter.com/chayaphol1234
     description: "Arplane"
+  chayaphol:
+    name: Chayaphol
+    display_name: Chayaphol Roibang
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: arplane0@outlook.com
+    web: https://arplane-socity.github.io
+    twitter: https://twitter.com/chayaphol1234
+    description: "Admin"
 
 # Plugins
 plugins:
