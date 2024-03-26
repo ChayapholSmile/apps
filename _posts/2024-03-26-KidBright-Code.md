@@ -11,4 +11,4 @@ hidden: false
 rating: 5.0
 ---
 # KidBright Code
-* [See KidBright Repo](assets/KBCode)
+* [See KidBright Repo](https://github.com/ChayapholSmile/apps/tree/main/assets/KBCode)
